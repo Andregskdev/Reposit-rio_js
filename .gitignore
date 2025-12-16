@@ -1,0 +1,14 @@
+# Dependêndencias
+node_modules/
+package-lock.json
+
+# Arquivos de sistema e IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Arquivos de log e build
+*.log
+dist/
+build/
+.env
